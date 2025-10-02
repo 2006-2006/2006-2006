@@ -60,7 +60,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yogeshwaran2006&theme=radical&margin-w=10&no-frame=true&no-bg=true&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yogeshwaran2006&theme=radical&margin-w=10&row=1&no-bg=false&no-frame=false&title=Commit,Repositories,Stars,Followers,Issues,PullRequest" alt="GitHub Trophies" />
 </p>
 
 ---
