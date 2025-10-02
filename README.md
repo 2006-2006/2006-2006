@@ -1,4 +1,4 @@
-# Hello world, this is my profile
+# 👋 Hello world, this is my profile
 
 <!-- 🌌 Yogeshwaran Vijayakumar – Animated, Humorous, and Techy GitHub Profile -->
 
@@ -9,10 +9,14 @@
 
 <!-- 🎬 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&width=800&lines=🚀+AI+Technologist+with+Creative+Flair;🎯+Full+Stack+Logic+in+Python%2C+C%2C+C%2B%2B%2C+Java;🎨+Designing+with+Data+and+Memes;☁️+Oracle+Cloud+Certified+Data+Science+Specialist;💡+Turning+Ideas+into+Innovations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=🚀+AI+Technologist+with+Creative+Flair;🎯+Full+Stack+Logic+in+Python%2C+C%2C+C%2B%2B%2C+Java;🎨+Designing+with+Data+and+Memes;☁️+Oracle+Cloud+Certified+Data+Science+Specialist;💡+Turning+Ideas+into+Innovations" alt="Typing SVG" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yogeshwaran2006&style=for-the-badge&color=ff69b4" alt="Profile Views" />
+</p>
 
 <!-- 🔗 Social Links -->
 <p align="center">
@@ -30,7 +34,7 @@
 
 ---
 
-## 👋 Hey there!
+## 👨‍💻 About Me
 
 > **"Precision in logic, humor in design, and pride in every build 🚀"**
 
@@ -47,13 +51,21 @@
 </p>
 
 🧠 **Primary Focus**:  
-- Machine Learning • Deep Learning • NLP  
-- Big Data • Cloud AI (OCI)  
-- Data Visualization & Dashboards  
+- 🤖 Machine Learning • 🧠 Deep Learning • 💬 NLP  
+- 📊 Big Data • ☁️ Cloud AI (OCI)  
+- 🎨 Data Visualization & Dashboards  
 
 ---
 
-## 🎬 Coding Humor GIFs (Autoplaying & Looping)
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yogeshwaran2006&theme=radical&margin-w=10&no-frame=true&no-bg=true&row=1" alt="Trophies" />
+</p>
+
+---
+
+## 🎬 Coding Humor GIFs
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding all night" />
@@ -64,26 +76,34 @@
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Debugging vibes" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Deploy feels" />
-</p>
-
 > 🧠 *"When you fix a bug at 3AM and feel like Tony Stark."*  
 > 😂 *“Code. Debug. Cry. Repeat.”*
 
 ---
 
-## 📊 Dynamic Stats & Graphs
-
-> ⚙️ **Live Stats – 100% Working**
+## 📊 GitHub Analytics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogeshwaran2006&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshwaran2006&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogeshwaran2006&show_icons=true&count_private=true&theme=radical&bg_color=20,0f2027,203a43,2c5364&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&hide_border=true&border_radius=20&line_height=25" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=Yogeshwaran2006&theme=radical&background=20,2b5876,4e4376&border_radius=20&ring=00FFFF&fire=FF00CC&currStreakLabel=FFFFFF&sideNums=00FFFF&currStreakNum=FF00FF&dates=AAAAAA&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshwaran2006&theme=github-compact&hide_border=true&area=true&custom_title=🚀%20My%20Coding%20Journey" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwaran2006&layout=compact&langs_count=8&theme=radical&bg_color=20,2C5364,203A43,0F2027&title_color=00FFFF&text_color=FFFFFF&hide_border=true&border_radius=20" height="180px"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshwaran2006&theme=react-dark&bg_color=0f2027&color=00FFFF&line=00FFFF&point=FF00FF&area=true&hide_border=true&radius=16&custom_title=🌌%20My%20Coding%20Journey" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yogeshwaran2006/Yogeshwaran2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -97,19 +117,10 @@
 
 ---
 
-## 🧩 Fun Developer Facts
-
-- 💡 I learn faster when memes are involved.  
-- 🧠 My neural net sometimes gives better advice than humans.  
-- ⚡ Motto: *If it compiles, it ships.*  
-- 🎯 Currently building **MedBot AI** and futuristic dashboards.
-
----
-
-## ✨ Quote for the Day
+## ✨ Daily Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote">
 </p>
 
 ---
