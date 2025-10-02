@@ -94,16 +94,20 @@
 
 ---
 
+## 🌌 Dynamic Contribution Visuals
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshwaran2006&theme=react-dark&bg_color=0f2027&color=00FFFF&line=00FFFF&point=FF00FF&area=true&hide_border=true&radius=16&custom_title=🌌%20My%20Coding%20Journey" />
+  <!-- 📈 Activity Heatmap -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshwaran2006&theme=github-dark&bg_color=0f2027&color=00FFFF&line=00FFFF&point=FF00FF&area=true&hide_border=true&radius=16&custom_title=🔥%20Active%20Coding%20Heatmap" />
 </p>
 
----
-
-## 🐍 GitHub Contribution Snake
+<p align="center">
+  <!-- 🌍 World Map of Contributions -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yogeshwaran2006&theme=radical" alt="GitHub Summary"/>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yogeshwaran2006/Yogeshwaran2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  🎢 <em>My 3D GitHub Skyline</em>
 </p>
 
 ---
